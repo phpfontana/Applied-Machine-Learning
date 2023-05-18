@@ -20,7 +20,6 @@ python main.py
 * Logistic Regression
 * Decision Trees
 * Random Forest
-* LightGBM
 * XGBoost
 
 #### 2. Unsupervised Learning
