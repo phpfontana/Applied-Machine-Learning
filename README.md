@@ -16,11 +16,11 @@ python main.py
 
 # Table of Contents
 #### 1. Supervised Learning
-* Linear Regression
-* Logistic Regression
-* Decision Trees
-* Random Forest
-* XGBoost
+* [Linear Regression](https://github.com/phpfontana/Applied-Machine-Learning/blob/main/tutorials/01-supervised-learning/linear_regression/main.py)
+* [Logistic Regression](https://github.com/phpfontana/Applied-Machine-Learning/blob/main/tutorials/01-supervised-learning/logistic_regression/main.py)
+* [Decision Trees](https://github.com/phpfontana/Applied-Machine-Learning/blob/main/tutorials/01-supervised-learning/decision_trees/main.py)
+* [Random Forest](https://github.com/phpfontana/Applied-Machine-Learning/blob/main/tutorials/01-supervised-learning/random_forest/main.py)
+* [XGBoost](https://github.com/phpfontana/Applied-Machine-Learning/blob/main/tutorials/01-supervised-learning/xgboost/main.py)
 
 #### 2. Unsupervised Learning
 TBA
