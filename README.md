@@ -11,9 +11,8 @@ python main.py
 
 # Dependencies
 * Python 3.8+
-* Scikit-Learn
-* Tensorflow
-* Seaborn
+* Scikit-Learn 1.2+
+* Tensorflow 2.13+
 
 # Table of Contents
 #### 1. Supervised Learning

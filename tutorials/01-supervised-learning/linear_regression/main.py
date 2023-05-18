@@ -8,10 +8,8 @@ from sklearn import datasets
 import warnings
 warnings.filterwarnings("ignore")
 
-# Hyper-parameters
-
-# Name dataset
-data = datasets.fetch_california_housing(as_frame=True)
+# California Housing dataset
+data = datasets.fetch_california_housing()
 X = data.data
 y = data.target
 
@@ -59,3 +57,4 @@ for model in linear_regression, lasso_regression, ridge_regression, sgd_linear_r
     print(model.__class__.__name__)
     print(f"Train | R-squared : {r2_train} | MSE: {mse_train}")
     print(f"Test | R-squared : {r2_test} | MSE: {mse_test}\n")
+    
