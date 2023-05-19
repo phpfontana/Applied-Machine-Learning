@@ -13,6 +13,8 @@ python main.py
 * Python 3.8+
 * Scikit-Learn 1.2+
 * Tensorflow 2.13+
+* Matplotlib 3.7.1+
+* Pandas 1.4.2+
 
 # Table of Contents
 #### 1. Supervised Learning
