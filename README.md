@@ -15,6 +15,7 @@ python main.py
 * Tensorflow 2.13+
 * Matplotlib 3.7.1+
 * Pandas 1.4.2+
+* Seaborn 0.12+
 
 # Table of Contents
 #### 1. Supervised Learning
