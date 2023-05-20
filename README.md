@@ -13,6 +13,7 @@ python main.py
 * Python 3.8+
 * Scikit-Learn 1.2+
 * Tensorflow 2.13+
+* XGBoost 2.0+
 * Matplotlib 3.7.1+
 * Pandas 1.4.2+
 * Seaborn 0.12+
@@ -35,7 +36,8 @@ python main.py
 * [Convolutional Neural Networks](https://github.com/phpfontana/Applied-Machine-Learning/blob/main/tutorials/03-deep-learning/convolutional_neural_network/main.py)
 
 ### 4. Utilities
-TBA
+* Hyperparameter Tuning
+* Pipelines
 
 # License
 [(Back to top)](#applied-machine-learning)
