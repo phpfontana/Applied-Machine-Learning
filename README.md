@@ -31,8 +31,8 @@ python main.py
 * [t-SNE](https://github.com/phpfontana/Applied-Machine-Learning/blob/main/tutorials/02-unsupervised-learning/t_distributed_stochastic_neighbor_embedding/main.py)
 
 #### 3. Deep Learning
-* Artificial Neural Networks
-* Convolutional Neural Networks
+* [Artificial Neural Networks](https://github.com/phpfontana/Applied-Machine-Learning/blob/main/tutorials/03-deep-learning/artificial_neural_network/main.py)
+* [Convolutional Neural Networks](https://github.com/phpfontana/Applied-Machine-Learning/blob/main/tutorials/03-deep-learning/convolutional_neural_network/main.py)
 
 ### 4. Utilities
 TBA
