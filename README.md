@@ -36,8 +36,8 @@ python main.py
 * [Convolutional Neural Networks](https://github.com/phpfontana/Applied-Machine-Learning/blob/main/tutorials/03-deep-learning/convolutional_neural_network/main.py)
 
 ### 4. Utilities
-* Hyperparameter Tuning
-* Pipelines
+* [Hyperparameter Tuning](https://github.com/phpfontana/Applied-Machine-Learning/blob/main/tutorials/04-utilities/hyperparameter_tuning/main.py)
+* [Pipelines](https://github.com/phpfontana/Applied-Machine-Learning/blob/main/tutorials/04-utilities/pipelines/main.py)
 
 # License
 [(Back to top)](#applied-machine-learning)
