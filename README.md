@@ -26,10 +26,13 @@ python main.py
 * [XGBoost](https://github.com/phpfontana/Applied-Machine-Learning/blob/main/tutorials/01-supervised-learning/xgboost/main.py)
 
 #### 2. Unsupervised Learning
-TBA
+* [K-Nearest Neighbor](https://github.com/phpfontana/Applied-Machine-Learning/blob/main/tutorials/02-unsupervised-learning/k_nearest_neighbor/main.py)
+* [Principal Component Analysis](https://github.com/phpfontana/Applied-Machine-Learning/blob/main/tutorials/02-unsupervised-learning/principal_component_analysis/main.py)
+* [t-SNE](https://github.com/phpfontana/Applied-Machine-Learning/blob/main/tutorials/02-unsupervised-learning/t_distributed_stochastic_neighbor_embedding/main.py)
 
 #### 3. Deep Learning
-TBA
+* Artificial Neural Networks
+* Convolutional Neural Networks
 
 ### 4. Utilities
 TBA
