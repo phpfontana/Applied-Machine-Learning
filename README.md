@@ -34,13 +34,21 @@ python main.py
 #### 3. Deep Learning
 * [Artificial Neural Networks](https://github.com/phpfontana/Applied-Machine-Learning/blob/main/tutorials/03-deep-learning/artificial_neural_network/main.py)
 * [Convolutional Neural Networks](https://github.com/phpfontana/Applied-Machine-Learning/blob/main/tutorials/03-deep-learning/convolutional_neural_network/main.py)
+* Recurrent Neural Networks - TBA
 
-### 4. Utilities
+#### 4. Reinforcement Learning
+TBA
+
+#### 5. Recommender Systems
+TBA
+
+#### 6. Utilities
 * [Hyperparameter Tuning](https://github.com/phpfontana/Applied-Machine-Learning/blob/main/tutorials/04-utilities/hyperparameter_tuning/main.py)
 * [Pipelines](https://github.com/phpfontana/Applied-Machine-Learning/blob/main/tutorials/04-utilities/pipelines/main.py)
+* Hyperparameter Tuning w/ Optuna - TBA
+* Imbalanced Learning - TBA
 
 # License
-[(Back to top)](#applied-machine-learning)
 
 This tutorial is made available under the MIT License. Feel free to use and modify the code as you see fit.
 
