@@ -1,10 +1,11 @@
 import numpy as np
+import matplotlib.pyplot as plt
 from sklearn.model_selection import train_test_split, GridSearchCV
 from sklearn.preprocessing import OneHotEncoder, StandardScaler
 from sklearn.tree import DecisionTreeClassifier
 from sklearn.metrics import classification_report
 from sklearn.datasets import load_wine
-from sklearn import metrics
+from sklearn.tree import plot_tree
 
 # filter warnings
 import warnings
@@ -81,3 +82,8 @@ print(classification_report(y_true=y_train_encoded, y_pred=y_pred_train))
 
 print("Test Predictions")
 print(classification_report(y_true=y_test_encoded, y_pred=y_pred_test))
+
+# plotting the tree
+plt.figure(figsize=(20, 10))
+plot_tree(dt_tuned, filled=True, rounded=True, class_names=wine.target_names, feature_names=wine.feature_names)
+plt.show()
