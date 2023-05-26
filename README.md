@@ -27,32 +27,18 @@ python main.py
 * [XGBoost](https://github.com/phpfontana/Applied-Machine-Learning/blob/main/tutorials/01-supervised-learning/xgboost/main.py)
 
 #### 2. Unsupervised Learning
-* [K-Nearest Neighbor](https://github.com/phpfontana/Applied-Machine-Learning/blob/main/tutorials/02-unsupervised-learning/k_nearest_neighbor/main.py)
-* [Principal Component Analysis](https://github.com/phpfontana/Applied-Machine-Learning/blob/main/tutorials/02-unsupervised-learning/principal_component_analysis/main.py)
-* [t-SNE](https://github.com/phpfontana/Applied-Machine-Learning/blob/main/tutorials/02-unsupervised-learning/t_distributed_stochastic_neighbor_embedding/main.py)
-* [Clustering](
-* [Dimensionality Reduction]
-* [Anomaly Detection]
+* [Clustering](https://github.com/phpfontana/Applied-Machine-Learning/blob/main/tutorials/02-unsupervised-learning/clustering/main.py)
+* Dimensionality Reduction
+* Anomaly Detection
 
 #### 3. Deep Learning
 * [Artificial Neural Networks](https://github.com/phpfontana/Applied-Machine-Learning/blob/main/tutorials/03-deep-learning/artificial_neural_network/main.py)
 * [Convolutional Neural Networks](https://github.com/phpfontana/Applied-Machine-Learning/blob/main/tutorials/03-deep-learning/convolutional_neural_network/main.py)
-* [Recurrent Neural Networks](
-* [Transformer Networks](
-* [Generative Adversarial Networks](
-* [Autoencoders](
 
 #### 4. Reinforcement Learning
-* [Q-Learning](
-* [Policy Gradient Methods](
-* [Deep Q-Learning](
-* [Proximal Policy Optimization](
+TBA
 
-#### 5. Recommender Systems
-* [Collaborative Filtering](
-* [Content-Based Filtering](
-
-#### 6. Utilities
+#### 5. Utilities
 * [Hyperparameter Tuning](https://github.com/phpfontana/Applied-Machine-Learning/blob/main/tutorials/04-utilities/hyperparameter_tuning/main.py)
 * [Pipelines](https://github.com/phpfontana/Applied-Machine-Learning/blob/main/tutorials/04-utilities/pipelines/main.py)
 

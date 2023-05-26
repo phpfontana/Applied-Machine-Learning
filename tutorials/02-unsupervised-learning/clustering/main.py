@@ -1,9 +1,6 @@
 # importing libraries
 import numpy as np
 import matplotlib.pyplot as plt
-import pandas as pd
-import seaborn as sns
-
 from sklearn.cluster import KMeans, DBSCAN
 from sklearn_extra.cluster import KMedoids
 from sklearn.metrics import silhouette_score, homogeneity_score, completeness_score, v_measure_score, adjusted_rand_score, adjusted_mutual_info_score
@@ -67,9 +64,3 @@ plt.scatter(kmeans_centroids[:, 0], kmeans_centroids[:, 1], marker='*', s=250, c
 plt.scatter(kmedoids_centroids[:, 0], kmedoids_centroids[:, 1], marker='^', s=250, color='black', label='K-Medoids Centroids')
 plt.legend()
 plt.show()
-
-
-
-
-
-
