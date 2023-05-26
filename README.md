@@ -1,5 +1,5 @@
 # Applied Machine Learning
-This repository contains tutorial code for machine learning students, enthusiasts, and researchers seeking to implement machine learning algorithms with scikit-learn, Keras, TensorFlow, PyTorch, HuggingFace, and LangChain.
+This repository contains tutorial code for machine learning students, enthusiasts, and researchers seeking to implement machine learning algorithms with scikit-learn, Keras, and TensorFlow.
 
 # Quickstart
 
@@ -9,14 +9,10 @@ cd Applied-Machine-Learning/tutorials/project_name
 python main.py
 ``` 
 
-# Dependencies
-* Python 3.8+
-* Scikit-Learn 1.2+
-* Tensorflow 2.13+
-* XGBoost 2.0+
-* Matplotlib 3.7.1+
-* Pandas 1.4.2+
-* Seaborn 0.12+
+# Installation
+```bash
+pip install -r requirements.txt
+```
 
 # Table of Contents
 #### 1. Supervised Learning
