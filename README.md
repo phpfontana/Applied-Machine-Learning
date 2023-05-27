@@ -24,8 +24,7 @@ pip install -r requirements.txt
 
 #### 2. Unsupervised Learning
 * [Clustering](https://github.com/phpfontana/Applied-Machine-Learning/blob/main/tutorials/02-unsupervised-learning/clustering/main.py)
-* Dimensionality Reduction
-* Anomaly Detection
+* [Dimensionality Reduction](https://github.com/phpfontana/Applied-Machine-Learning/blob/main/tutorials/02-unsupervised-learning/dimensionality_reduction/main.py)
 
 #### 3. Deep Learning
 * [Artificial Neural Networks](https://github.com/phpfontana/Applied-Machine-Learning/blob/main/tutorials/03-deep-learning/artificial_neural_network/main.py)
@@ -38,12 +37,16 @@ TBA
 * [Hyperparameter Tuning](https://github.com/phpfontana/Applied-Machine-Learning/blob/main/tutorials/04-utilities/hyperparameter_tuning/main.py)
 * [Pipelines](https://github.com/phpfontana/Applied-Machine-Learning/blob/main/tutorials/04-utilities/pipelines/main.py)
 
-
 # License
-
 This tutorial is made available under the MIT License. Feel free to use and modify the code as you see fit.
 
 # Feedback
+If you have any suggestions or questions about this tutorial, please open an issue or contact me directly. Your feedback is greatly appreciated!
+
+# References
 [(Back to top)](#applied-machine-learning)
 
-If you have any suggestions or questions about this tutorial, please open an issue or contact me directly. Your feedback is greatly appreciated!
+* G. James, D. Witten, T. Hastie, R. Tibshirani, "An Introduction to Statistical Learning: with Applications in R," Springer Science+Business Media, 2013.
+* A. Géron, "Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems," O'Reilly Media, 2019.
+* I. Goodfellow, Y. Bengio, A. Courville, "Deep Learning," MIT Press, 2016.
+* A. Barto, R. Sutton, "Reinforcement Learning: An Introduction," MIT Press, 2018.
