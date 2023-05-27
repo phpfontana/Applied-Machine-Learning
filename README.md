@@ -44,9 +44,8 @@ This tutorial is made available under the MIT License. Feel free to use and modi
 If you have any suggestions or questions about this tutorial, please open an issue or contact me directly. Your feedback is greatly appreciated!
 
 # References
-[(Back to top)](#applied-machine-learning)
 
-* G. James, D. Witten, T. Hastie, R. Tibshirani, "An Introduction to Statistical Learning: with Applications in R," Springer Science+Business Media, 2013.
-* A. Géron, "Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems," O'Reilly Media, 2019.
+* G. James, D. Witten, T. Hastie, R. Tibshirani, "An Introduction to Statistical Learning: with Applications in R," Springer, 2021.
+* A. Géron, "Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems," O'Reilly Media, 2022.
 * I. Goodfellow, Y. Bengio, A. Courville, "Deep Learning," MIT Press, 2016.
 * A. Barto, R. Sutton, "Reinforcement Learning: An Introduction," MIT Press, 2018.
